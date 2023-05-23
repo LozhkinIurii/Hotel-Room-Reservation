@@ -1,4 +1,4 @@
-The project is part of TAMK Programming Languages 1 course (C++). It represents hotel room reservation process. There is no GUI, interacting is done via command line.
+The project represents hotel room reservation process. There is no GUI, interacting is done via command line.
 In the menu there is common information about total number of rooms, their sizes, prices per night and discount conditions. Then there are options user chooses.
 During reservation process user chooses room number, then program checks if it is available. If not, user is asked to choose another room. If it is available user is asked to give number of nights and customer name. Then program gives reservation number and total price with discount made.
 Also, room can be chosen by program.
