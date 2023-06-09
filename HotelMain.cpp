@@ -7,8 +7,8 @@
 #include "hotel.h"
 using namespace std;
 
-int main() {					////////////////////////////////////////////// 
+int main() {					//////////////////////////////////////////////
 	srand(time(NULL));			// Main function. The menu is called from here.
 	menu();
-	return 0;				
+	return 0;
 }								///////////////////////////////////////////////
