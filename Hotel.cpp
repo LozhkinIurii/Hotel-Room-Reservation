@@ -37,8 +37,9 @@ void roomAvailability(int allRooms, bool reservation[], bool allReserved) {
 // Reservation check during reservation process
 bool reservationCheck(int room, bool reservation[]) {
 	if (reservation[room - 1] == false) {
-		return false;           // Room was already reserved
+		return false;
 	}
+    return true;
 }
 
 
