@@ -6,3 +6,5 @@ When reservation is done, program returns back to menu, and user can choose anot
 Basically, after every chosen menu option is done, program returns to menu. To exit menu user can type anything else besides option numbers.
 During making choices the program checks if input is correct and if not, it asks to type choice again.
 As additional features I added subroutine roomAvailability, which can be called separately without starting reservation process. Also, there is feature, which gives free bottle of beer for every 3rd customer. And, when program returns to the menu, program checks, if all rooms are reserved. If they are, reservation process is not possible anymore, it says that all rooms are reserved.
+
+To see example of running app, download **hotel.webm** file.
